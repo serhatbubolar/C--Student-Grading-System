@@ -1,0 +1,13 @@
+C:\Users\serha\OneDrive\Masaüstü\OgrenciNotSistemi\OgrenciNotSistemi\bin\Debug\OgrenciNotSistemi.exe.config
+C:\Users\serha\OneDrive\Masaüstü\OgrenciNotSistemi\OgrenciNotSistemi\bin\Debug\OgrenciNotSistemi.exe
+C:\Users\serha\OneDrive\Masaüstü\OgrenciNotSistemi\OgrenciNotSistemi\bin\Debug\OgrenciNotSistemi.pdb
+C:\Users\serha\OneDrive\Masaüstü\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.csproj.AssemblyReference.cache
+C:\Users\serha\OneDrive\Masaüstü\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\serha\OneDrive\Masaüstü\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.FrmGiris.resources
+C:\Users\serha\OneDrive\Masaüstü\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.FrmOgrenciDetay.resources
+C:\Users\serha\OneDrive\Masaüstü\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.FrmOgretmenDetay.resources
+C:\Users\serha\OneDrive\Masaüstü\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.Properties.Resources.resources
+C:\Users\serha\OneDrive\Masaüstü\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.csproj.GenerateResource.cache
+C:\Users\serha\OneDrive\Masaüstü\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.csproj.CoreCompileInputs.cache
+C:\Users\serha\OneDrive\Masaüstü\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.exe
+C:\Users\serha\OneDrive\Masaüstü\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.pdb
